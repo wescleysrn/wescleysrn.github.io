@@ -1,1 +1,0 @@
-# wescleysrn.github.io
