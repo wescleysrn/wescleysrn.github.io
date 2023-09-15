@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1694458923418,
+  "timestamp": 1694805812747,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,12 +13,12 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.3856fbba17a4134f.js",
+        "/main.591938434054fa92.js",
         "/manifest.webmanifest",
         "/polyfills.aab4f5963629d687.js",
         "/runtime.4aee953f4822f350.js",
         "/scripts.1aa9fa7dcae68c21.js",
-        "/styles.31d1374e6aeebc82.css"
+        "/styles.c92a6a26a3345d69.css"
       ],
       "patterns": []
     },
@@ -95,6 +95,7 @@
         "/assets/js/plugins/swiper.min.js",
         "/assets/js/plugins/swup.min.js",
         "/assets/js/plugins/typing.min.js",
+        "/assets/pdf/cv.pdf",
         "/assets/scss/_burger.scss",
         "/assets/scss/_common.scss",
         "/assets/scss/_config.scss",
@@ -164,10 +165,10 @@
     "/assets/img/face-1.jpg": "60eda64740ec45394b866e6314ab5a861839f264",
     "/assets/img/face-2-old.png": "b1bdb88deb1ca3802f2761cea7bcd5e8b8adb2a1",
     "/assets/img/face-2.png": "bdc41fa259576d5049f34c2be079fbbeaf906c3b",
-    "/assets/img/testimonials/face-1.jpg": "b2568a7565ab22ab0f97bd0422a499f75bfce4a2",
-    "/assets/img/testimonials/face-2.jpg": "e32c4b29a07bce55bd2f85fc4b0c985ef911e4c7",
-    "/assets/img/testimonials/face-3.jpg": "e201ffa04c01fc52c9d3720ceb7d92a712c4d838",
-    "/assets/img/testimonials/face-4.jpg": "73453acf5aefa801be7014ba33a81db771587118",
+    "/assets/img/testimonials/face-1.jpg": "452cb56ebe3dc73168368da721733fe79c6dd0ab",
+    "/assets/img/testimonials/face-2.jpg": "95c30beeee1fa8fe8a3626a24200b763a6c7725f",
+    "/assets/img/testimonials/face-3.jpg": "d46cbc911f7e2efa5faded54ba4be0ea69eb5e2e",
+    "/assets/img/testimonials/face-4.jpg": "2d376ccf42649fded5e3ebd1bd5665c3805afd4a",
     "/assets/img/works/thumbnail/1.jpg": "c18bb42d18f78640432eca8552d6d1929a8e6767",
     "/assets/img/works/thumbnail/2.jpg": "9851e9a99f0e8cc2cc458814976ba8e4c9b984ef",
     "/assets/img/works/thumbnail/3.jpg": "c319c9520c897f35e525a13eeebf2efe6a17481a",
@@ -187,10 +188,11 @@
     "/assets/js/plugins/swiper.min.js": "b8dd1ae6654c77e2cc57687913eb372259a9751e",
     "/assets/js/plugins/swup.min.js": "f8f0f94825d8011634f57c5245565b606714787c",
     "/assets/js/plugins/typing.min.js": "cefdd5e81f663998b54b848860ae4aa3629a2b1b",
+    "/assets/pdf/cv.pdf": "05e0edec9f0f9c78c46226d9e7ddbc798621d40d",
     "/assets/scss/_burger.scss": "be2c5f95f8087dcb668312c13a5eaa2b81ac2846",
     "/assets/scss/_common.scss": "416902accef9fe0171a84917f13395ab45204c0f",
-    "/assets/scss/_config.scss": "2da73764417533f6ae1bdc47ecb5b7ab0a70191b",
-    "/assets/scss/_content.scss": "b2cc10564f2767762e52535f4f042e66fd5e0853",
+    "/assets/scss/_config.scss": "c0b70c4288cb90e597cb0ac0ad4b5c4bd1521073",
+    "/assets/scss/_content.scss": "602f0c6dbd91f69502c04ffd3fb024fa47069f30",
     "/assets/scss/_info-bar.scss": "310c93710f746a512c6944b358f5c392adeb1fdf",
     "/assets/scss/_markup.scss": "9b8ffe0ef8e7dec2623373bf1ab037df0af7def6",
     "/assets/scss/_menu-bar.scss": "54382e850912f4779e270f0d38499cb33e6c2716",
@@ -209,13 +211,13 @@
     "/fa-solid-900.6a8db53d80e9da0c.ttf": "e9ace557c3aa403307f1e7a2cef1c035d522b94b",
     "/fa-solid-900.7900a311baa348cf.woff2": "80644191098f863f25be27841c0d92c452cf2327",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "4527448580e9dd293786e93b73a710107132a5c0",
-    "/main.3856fbba17a4134f.js": "f72b935a37bbaae7e45c0cce7839a59ca58d0f43",
+    "/index.html": "4d5b824a674647febc349af066cdae39f8d213c1",
+    "/main.591938434054fa92.js": "d9e8d237a1d6fd0c18f026a8c7c811238a7d440c",
     "/manifest.webmanifest": "35a3b96593e0332dee8edfccea88bd1fb2442883",
     "/polyfills.aab4f5963629d687.js": "a6052e992d979fc32c0ca8bbc8031a2d491da130",
     "/runtime.4aee953f4822f350.js": "b2fdf0b90b30043021aed659b45ecef632ee8e2e",
     "/scripts.1aa9fa7dcae68c21.js": "2834d36f443c48ed6e35a106938bfc4db2f529f3",
-    "/styles.31d1374e6aeebc82.css": "204592d28cc5a0947cc6f00e26d3adc10032b08e"
+    "/styles.c92a6a26a3345d69.css": "17364c253e153ea3d852883ddbad0cb41771abbf"
   },
   "navigationUrls": [
     {
