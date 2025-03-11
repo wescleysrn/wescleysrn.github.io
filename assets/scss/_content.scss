@@ -125,6 +125,7 @@ content
   overflow: hidden;
   box-shadow: $shadow-1;
   background: $card-color;
+  min-height: 267px;
 
   & .art-service-ib-content {
     padding: 30px;

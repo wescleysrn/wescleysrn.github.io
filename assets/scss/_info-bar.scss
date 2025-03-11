@@ -303,6 +303,7 @@ info bar
     & a {
       color: $text-color-2;
       transition: $tr-sm;
+      cursor: pointer;
 
       &:hover {
         text-shadow: $text-neon;
