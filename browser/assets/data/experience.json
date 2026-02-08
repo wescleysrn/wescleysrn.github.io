@@ -1,0 +1,584 @@
+{
+  "categories": [
+    {
+      "id": "programming-languages",
+      "title": "Programming Languages",
+      "technologies": [
+        {
+          "name": "Java",
+          "description": "Programming language widely used in backend development.",
+          "yearsOfExperience": 17
+        },
+        {
+          "name": "Angular",
+          "description": "Front-end framework for building dynamic web applications.",
+          "yearsOfExperience": 9
+        },
+        {
+          "name": "Ionic",
+          "description": "Framework for building mobile and progressive web apps using web technologies.",
+          "yearsOfExperience": 8
+        },
+        {
+          "name": "RESTful Web Services",
+          "description": "Architectural style for designing networked applications based on HTTP.",
+          "yearsOfExperience": 9
+        },
+        {
+          "name": "Functional Programming",
+          "description": "Programming paradigm that treats computation as the evaluation of mathematical functions.",
+          "yearsOfExperience": 4
+        },
+        {
+          "name": "Java Stream",
+          "description": "API for processing sequences of elements (e.g., collections) in a functional style.",
+          "yearsOfExperience": 4
+        },
+        {
+          "name": "Parallel and Concurrent Programming",
+          "description": "Techniques for managing multiple tasks simultaneously in computing.",
+          "yearsOfExperience": 4
+        },
+        {
+          "name": "HTML/CSS/TypeScript",
+          "description": "Core web technologies for structuring and styling web pages, and TypeScript for typed JavaScript.",
+          "yearsOfExperience": 15
+        },
+        {
+          "name": "XML/XSLT/XPath",
+          "description": "XML for data representation, XSLT for transformation, and XPath for querying XML data.",
+          "yearsOfExperience": 8
+        },
+        {
+          "name": "JSON",
+          "description": "Lightweight data interchange format, easy for humans to read and write.",
+          "yearsOfExperience": 8
+        }
+      ]
+    },
+    {
+      "id": "development-frameworks",
+      "title": "Development Frameworks",
+      "technologies": [
+        {
+          "name": "Spring Boot",
+          "description": "Framework for building Java-based microservices and web applications.",
+          "yearsOfExperience": 8
+        },
+        {
+          "name": "Spring Cloud",
+          "description": "Set of tools to support building cloud-native applications with Spring.",
+          "yearsOfExperience": 5
+        },
+        {
+          "name": "Spring Data",
+          "description": "Provides easy integration with databases using Spring frameworks.",
+          "yearsOfExperience": 5
+        },
+        {
+          "name": "Spring Batch",
+          "description": "Framework for processing large volumes of data in a batch-oriented manner.",
+          "yearsOfExperience": 4
+        },
+        {
+          "name": "Spring Security",
+          "description": "Comprehensive security services for Java applications.",
+          "yearsOfExperience": 9
+        },
+        {
+          "name": "Spring OAuth2",
+          "description": "OAuth 2.0 implementation for securing Spring applications.",
+          "yearsOfExperience": 6
+        },
+        {
+          "name": "Spring Atomikos",
+          "description": "Distributed transaction management for microservices with Spring.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Spring AI",
+          "description": "Artificial Intelligence integration for Spring-based applications.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Hibernate/JPA",
+          "description": "Java persistence framework for mapping Java objects to database tables.",
+          "yearsOfExperience": 16
+        },
+        {
+          "name": "Keycloak",
+          "description": "Open-source Identity and Access Management solution for modern applications and services.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Quarkus",
+          "description": "Lightweight and high-performance Java framework for cloud-native environments.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Micronaut",
+          "description": "Modern Java framework optimized for building microservices and serverless applications.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Jasper Report",
+          "description": "Java reporting tool for generating reports in various formats such as PDF, HTML, and Excel.",
+          "yearsOfExperience": 4
+        },
+        {
+          "name": "Spring Mail",
+          "description": "Framework for sending emails from a Spring application.",
+          "yearsOfExperience": 4
+        }
+      ]
+    },
+    {
+      "id": "software-testing",
+      "title": "Software Testing",
+      "technologies": [
+        {
+          "name": "Spring Test",
+          "description": "Testing framework for Spring-based applications.",
+          "yearsOfExperience": 7
+        },
+        {
+          "name": "JUnit",
+          "description": "Framework for unit testing Java applications.",
+          "yearsOfExperience": 9
+        },
+        {
+          "name": "Mockito",
+          "description": "Mocking framework for unit tests in Java.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Cucumber",
+          "description": "Behavior-Driven Development (BDD) testing framework for Java.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Testcontainers",
+          "description": "Library for providing lightweight, throwaway instances of common databases and services for integration testing.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Rest Assured",
+          "description": "Java library for testing REST APIs using a fluent interface and BDD-style syntax.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Postman",
+          "description": "API testing tool that allows you to send requests, view responses, and automate API tests.",
+          "yearsOfExperience": 5
+        }
+      ]
+    },
+    {
+      "id": "apis-monitoring",
+      "title": "APIs and Monitoring",
+      "technologies": [
+        {
+          "name": "Swagger Open API",
+          "description": "Standard for describing REST APIs and generating interactive documentation.",
+          "yearsOfExperience": 6
+        },
+        {
+          "name": "Spring Actuator",
+          "description": "Provides production-ready features for Spring Boot applications, such as monitoring and metrics.",
+          "yearsOfExperience": 6
+        },
+        {
+          "name": "Open Telemetrics",
+          "description": "Set of APIs and libraries to collect and analyze telemetry data such as metrics, logs, and traces.",
+          "yearsOfExperience": 2
+        }
+      ]
+    },
+    {
+      "id": "messaging-microservices",
+      "title": "Messaging and Microservice Integration",
+      "technologies": [
+        {
+          "name": "Apache Kafka",
+          "description": "Distributed event streaming platform for building real-time data pipelines and streaming applications.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "RabbitMQ",
+          "description": "Open-source message broker for asynchronous communication between services.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Apache Camel",
+          "description": "Open-source integration framework for routing and processing messages.",
+          "yearsOfExperience": 1
+        }
+      ]
+    },
+    {
+      "id": "database",
+      "title": "Database",
+      "technologies": [
+        {
+          "name": "Oracle",
+          "description": "Relational database management system for enterprise applications.",
+          "yearsOfExperience": 14
+        },
+        {
+          "name": "PostgreSQL",
+          "description": "Open-source relational database with advanced features and extensibility.",
+          "yearsOfExperience": 10
+        },
+        {
+          "name": "MySQL",
+          "description": "Popular open-source relational database system.",
+          "yearsOfExperience": 10
+        },
+        {
+          "name": "MongoDB",
+          "description": "NoSQL database for handling large volumes of unstructured data.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Neo4J",
+          "description": "Graph database designed for storing and querying connected data.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Cassandra",
+          "description": "NoSQL database for highly scalable and fault-tolerant applications.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Elastic Search",
+          "description": "Distributed search and analytics engine for real-time data.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Redis",
+          "description": "In-memory data structure store, often used as a cache or message broker.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "CockroachDB",
+          "description": "Distributed SQL database that provides scalability and strong consistency.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Flyway",
+          "description": "Database migration tool for versioning and automating database changes.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Liquibase",
+          "description": "Database schema change management tool for tracking and applying changes to databases.",
+          "yearsOfExperience": 3
+        }
+      ]
+    },
+    {
+      "id": "devops",
+      "title": "DevOps",
+      "technologies": [
+        {
+          "name": "GitOps",
+          "description": "Model for managing infrastructure and applications using Git as a source of truth.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "ArgoCD",
+          "description": "Continuous delivery tool for Kubernetes that enables GitOps workflows.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Docker",
+          "description": "Platform for developing, shipping, and running applications in containers.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Kubernetes",
+          "description": "System for automating deployment, scaling, and management of containerized applications.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Rancher",
+          "description": "System for automating deployment, scaling, and management of containerized applications.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Jenkins",
+          "description": "Open-source automation server for continuous integration and delivery.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "GitLab Runner",
+          "description": "Continuous integration tool for running jobs in GitLab CI/CD pipelines.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Prometheus",
+          "description": "Open-source system monitoring and alerting toolkit designed for reliability and scalability.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Grafana",
+          "description": "Open-source visualization tool for monitoring and analyzing metrics.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "ELK Stack",
+          "description": "Combination of Elasticsearch, Logstash, and Kibana for search and analytics.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "SonarQube",
+          "description": "Open-source platform for continuous inspection of code quality.",
+          "yearsOfExperience": 4
+        },
+        {
+          "name": "Nexus",
+          "description": "Repository manager for managing and storing build artifacts.",
+          "yearsOfExperience": 4
+        },
+        {
+          "name": "Vault (HashiCorp)",
+          "description": "Tool for managing secrets and sensitive data in a secure way.",
+          "yearsOfExperience": 0
+        },
+        {
+          "name": "AWS CodePipeline",
+          "description": "Fully managed continuous delivery service for automating build, test, and deployment pipelines.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "AWS CodeBuild",
+          "description": "Fully managed build service for compiling source code, running tests, and producing artifacts.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "AWS CodeDeploy",
+          "description": "Fully managed deployment service for automating the deployment of applications.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "DNS BIND9",
+          "description": "DNS software for managing and resolving domain names on the internet.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Helm",
+          "description": "Package manager for Kubernetes, making it easier to deploy applications and manage configurations.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Ansible",
+          "description": "Open-source automation tool for configuration management and application deployment.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Terraform",
+          "description": "Open-source infrastructure as code software tool for provisioning and managing cloud resources.",
+          "yearsOfExperience": 1
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing",
+      "title": "Cloud Computing",
+      "technologies": [
+        {
+          "name": "AWS (Amazon Web Services)",
+          "description": "Comprehensive cloud computing platform providing various infrastructure, platform, and software services.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Amazon EC2",
+          "description": "Scalable compute capacity in the cloud for running virtual machines and applications.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "AWS Lambda",
+          "description": "Serverless compute service that allows running code without provisioning or managing servers.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "AWS Elastic Beanstalk",
+          "description": "Platform-as-a-Service (PaaS) for deploying web applications and services.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "AWS Lightsail",
+          "description": "Easy-to-use cloud service offering virtual private servers and networking features.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Amazon S3",
+          "description": "Highly scalable object storage for storing and retrieving any amount of data.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Amazon RDS",
+          "description": "Managed relational database service that makes it easy to set up, operate, and scale a database.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Amazon DynamoDB",
+          "description": "Managed NoSQL database service for applications that need low-latency access to large datasets.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Amazon Aurora",
+          "description": "High-performance relational database compatible with MySQL and PostgreSQL.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Amazon Redshift",
+          "description": "Data warehousing service designed for analytic workloads on large datasets.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "AWS IAM",
+          "description": "Identity and Access Management for controlling user access to AWS resources.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "AWS Cognito",
+          "description": "Managed service for user authentication, authorization, and management of web and mobile apps.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "AWS KMS",
+          "description": "Key management service for creating and controlling cryptographic keys.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "AWS WAF",
+          "description": "Web Application Firewall for protecting applications from web attacks.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Amazon SNS",
+          "description": "Simple Notification Service for managing and sending notifications to various platforms.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Amazon SQS",
+          "description": "Queue service for decoupling and scaling microservices or distributed systems.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Amazon CloudWatch",
+          "description": "Monitoring service for observing AWS resources and applications in real time.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "AWS X-Ray",
+          "description": "Service for analyzing and debugging production, distributed applications.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Amazon VPC",
+          "description": "Virtual Private Cloud for defining isolated network resources within AWS.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "AWS Direct Connect",
+          "description": "Dedicated network connection from your premises to AWS.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Amazon CloudFront",
+          "description": "Content Delivery Network (CDN) service for delivering content globally with low latency.",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "AWS CDK",
+          "description": "Infrastructure as code framework for provisioning AWS resources using familiar programming languages.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "AWS ECR",
+          "description": "A container registry that allows you to store and manage Docker images.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "AWS ECS",
+          "description": "Managed container orchestration service to run Docker containers on AWS.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "AWS EKS",
+          "description": "Managed Kubernetes service to run and scale Kubernetes clusters on AWS.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "AWS CloudFormation",
+          "description": "Service for defining and provisioning AWS infrastructure using declarative templates.",
+          "yearsOfExperience": 2
+        }
+      ]
+    },
+    {
+      "id": "big-data-bi",
+      "title": "Big Data, BI",
+      "technologies": [
+        {
+          "name": "Pentaho",
+          "description": "Business Intelligence suite for data integration, reporting, and analytics.",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Qlik Sense",
+          "description": "Data analytics and visualization platform for self-service business intelligence.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Spark",
+          "description": "Open-source unified analytics engine for big data processing and machine learning.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Hive",
+          "description": "Data warehouse software for querying and managing large datasets in a distributed storage.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Oracle Golden Gate",
+          "description": "Real-time data integration and replication software.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Apache Flink",
+          "description": "Framework for stream processing and real-time data analytics.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Apache Airflow",
+          "description": "Open-source platform for orchestrating complex data workflows.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Data Lakes",
+          "description": "Storage repository for large amounts of structured and unstructured data.",
+          "yearsOfExperience": 1
+        }
+      ]
+    },
+    {
+      "id": "other-technologies",
+      "title": "Other Technologies",
+      "technologies": [
+        {
+          "name": "GraalVM",
+          "description": "Polyglot virtual machine for running applications written in various languages.",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "WebAssembly (Wasm)",
+          "description": "Binary instruction format for efficient execution on web browsers and other environments.",
+          "yearsOfExperience": 1
+        }
+      ]
+    }
+  ]
+}

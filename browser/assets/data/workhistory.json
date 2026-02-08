@@ -1,0 +1,46 @@
+{
+    "workhistory": [
+        {
+            "id": 1,
+            "role": "Lead DevOps Engineer – Application Infrastructure", 
+            "company": "STM - Superior Tribunal Militar",  
+            "description": "<p style=\"text-align: justify;\">Strategic role in leading STM's application infrastructure, with a focus on supporting development teams, automating processes, ensuring delivery quality and modernizing the application execution environment.</p><br><p style=\"text-align: justify;\">Main responsibilities and achievements:</p><br><ul><li style=\"text-align: justify;\">Technical monitoring of development projects, supporting modern architectures, performance analysis and best practices for integration and continuous delivery (CI/CD);</li><li style=\"text-align: justify;\">Preparation and maintenance of approval and production environments, focusing on stability, security and reproducibility;</li><li style=\"text-align: justify;\">Structuring and managing CI/CD pipelines using GitLab Runner, integrating build stages, testing, code analysis and automated deployment;</li><li style=\"text-align: justify;\">Management of tools to support the development cycle such as: Nexus (artifact repository), SonarQube (code quality analysis), GitLab (versioning and automation)</li><li style=\"text-align: justify;\">Installation, configuration and administration of Kubernetes clusters (RKE2), using Rancher as a management and orchestration tool for containerized applications;</li><li style=\"text-align: justify;\">Application monitoring and observability using the OpenTelemetry, Prometheus and Grafana stack, ensuring real-time visibility of service health and performance;</li><li style=\"text-align: justify;\">Direct involvement in incident resolution, infrastructure optimization and technical support for developers, promoting a DevOps culture integrated into the team's daily routine.</li></ul><br><p style=\"text-align: justify;\">This role consolidates my experience with modern infrastructure practices, automation, containers, monitoring and support for critical environments, reinforcing my role as a link between development and operations.</p>",
+            "period": "oct 2024 to present"
+        },
+        {
+            "id": 2,
+            "role": "Senior Software Engineer", 
+            "company": "STM - Superior Tribunal Militar",  
+            "description": "<p style=\"text-align: justify;\">Working as a Full Stack developer responsible for the Ouvidoria STM project, a web and mobile solution built from scratch with a focus on modernization, integration between systems and user experience.</p><br><p style=\"text-align: justify;\">Main responsibilities and achievements:</p><br><ul><li style=\"text-align: justify;\">Development of the backend architecture based on microservices with Spring Boot, promoting scalability and efficient system maintenance;</li><li style=\"text-align: justify;\">Management of authentication and user session control via Keycloak, providing secure authentication (OAuth2/OpenID Connect) and integration with external providers such as Google and Facebook;</li><li style=\"text-align: justify;\">Creation and exposure of REST APIs for consumption by web and mobile applications;</li><li style=\"text-align: justify;\">Integration between services such as email sending, document rendering (PDF) and connection to the SEI (Electronic Information System) system for automatic opening of administrative processes;</li><li style=\"text-align: justify;\">Development of the web frontend with Angular Standalone Components and PrimeNG, adopting good UI/UX practices and code modularization;</li><li style=\"text-align: justify;\">Development of the mobile application with Ionic Framework, including native features such as: Photo capture for user profile, Internet connectivity check, Push Notifications and Authentication via social networks via Keycloak.</li><li style=\"text-align: justify;\">Participation in the prototyping phase with Figma, actively contributing to the definition of the application's interface and usability;</li><li style=\"text-align: justify;\">Use of agile methodologies in the management and continuous delivery of solutions.</li></ul><br><p style=\"text-align: justify;\">This project represented a technological milestone within the institution, with a direct impact on modernizing communication with citizens and automating internal processes.</p>",
+            "period": "feb 2024 to Oct 2024"
+        },
+        {
+            "id": 3,
+            "role": "Senior Consultant Engineer", 
+            "company": "Capgemini",  
+            "description": "<p style=\"text-align: justify;\">Fullstack software engineer, working on the Merchant Portal project for the French group Natixis.</p><p style=\"text-align: justify;\">Responsible for defining Angular architecture for the project using the group's design system and adapting it in a modular and responsive way.</p><p style=\"text-align: justify;\">Responsible for defining a new architecture for the Spring Batch project and implementing batches for processing and ingesting data, using multi thread resources.</p><p style=\"text-align: justify;\">API creation work using the spring framework and preparation of SQL DDL and DML scripts for execution in the Oracle database.</p>",
+            "period": "set 2022 to jan 2024"
+        },
+        {
+            "id": 4,
+            "role": "Technical Coordinator Data Intelligence Nucleus", 
+            "company": "Ministry of Agriculture",  
+            "description": "<p style=\"text-align: justify;\">Technical Coordinator at the Data Intelligence Nucleus, structure activities to work with data sharing, contracting a cloud service, defining the on-premise data lake environment and analytics engine.</p><p style=\"text-align: justify;\">Hands on with AWS cloud technologies, lambda function development in java, performing treatment of apache parquet files for multidimensional model.</p><p style=\"text-align: justify;\">Made study, and definition of flow and self-service BI tools.</p><p style=\"text-align: justify;\">Coordinating the technical team and acting directly in the realization of data ingestion PoC with masking, structuring, and documentation of Hadoop environment, using framework's Spark, Hive, Pentaho.</p><p style=\"text-align: justify;\">Production of panels with Qlik Sense.</p>",
+            "period": "mar 2020 - ago 2022"
+        },
+        {
+            "id": 5,
+            "role": "Information Technology Analyst", 
+            "company": "National Supply Company",  
+            "description": "<p style=\"text-align: justify;\">Technical Coordinator of the Nucleus of Architecture and Innovation.</p><p style=\"text-align: justify;\">Development of microservices based on Spring boot in Java and reusable visual components based on Angular.</p><p style=\"text-align: justify;\">Conducting research and implantation of architecture java based on micro services, using spring framework and the concept of resources server's controlled by Oauth2.</p><p style=\"text-align: justify;\">Responsible for the research and implantation of proposal of control of distributed transaction of the micro services, based on Spring Atomikos and Kafka.</p><p style=\"text-align: justify;\">Work with the most common packages and frameworks such as like Spring Boot, Hibernate, JPA, JAX-RS, JSF with good experience in front-end technology Angular.</p><p style=\"text-align: justify;\">Made archetypes maven contemplating the architectures defined for the Company.</p>",
+            "period": "mai 2013 - fev 2020"
+        },
+        {
+            "id": 6,
+            "role": "Senior Software Engineer", 
+            "company": "CTIS",  
+            "description": "<p style=\"text-align: justify;\">Integrating the development team that maintains web solutions for internal and external use.</p><p style=\"text-align: justify;\">Work as a Senior Developer work with JSF, Struts, JSP, Hibernate, EJB, PL-SQL, Oracle.</p><p style=\"text-align: justify;\">Implement enterprise application projects, directing requirements definition, development, validation, and ongoing maintenance activities.</p>",
+            "period": "out 2009 - abr 2013"
+        }
+    ]
+}

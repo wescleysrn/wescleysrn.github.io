@@ -1,0 +1,34 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "title": "Web Development",
+            "description": "Design and implementation of simple and large-scale web systems projects. My client-focused and results-oriented approach ensures that each project is delivered on time and within budget, meeting the unique needs of my clients."
+        },
+        {
+            "id": 2,
+            "title": "Mobile Development",
+            "description": "Creating multiplatform mobile applications that can be published in app stores. Ensuring that the solutions are robust, scalable and user-friendly."
+        },
+        {
+            "id": 3,
+            "title": "Website Creation",
+            "description": "Complete website creation service, exclusive domain registration and high availability infrastructure to keep your web presence always active. Have your own professional website and personalized webmail."
+        },
+        {
+            "id": 4,
+            "title": "AWS Consultant and Architect",
+            "description": "I help you modernize your technology stack and reduce infrastructure costs with my expertise in migrating to the AWS cloud. Transform your systems with high-performance distributed architectures. Let's propel your company into the cloud future!"
+        },
+        {
+            "id": 5,
+            "title": "Devops",
+            "description": "I specialize in bridging the gap between development and operations to streamline your software delivery process. By implementing continuous integration, continuous deployment, and infrastructure automation, I help businesses increase the speed, efficiency, and reliability of their systems."
+        },
+        {
+            "id": 6,
+            "title": "Team training",
+            "description": "Unlock your team's potential with our specialized training courses. Learn Java, Angular, Spring, and much more with tailor-made courses. Empower your team to build high-quality solutions and achieve success in technology!"
+        }
+    ]
+}

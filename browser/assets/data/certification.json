@@ -1,0 +1,55 @@
+{
+  "certifications": [
+    {
+      "name": "Google Cloud Associate Cloud Engineer",
+      "provider": "Google",
+      "year": 2026
+
+    },
+    {
+      "name": "AWS Certified Developer - Associate",
+      "provider": "AWS",
+      "year": 2021
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "provider": "AWS",
+      "year": 2021
+    },
+    {
+      "name": "OCE JPA - Oracle Certified Expert, Java EE 6 Java Persistence API Developer",
+      "provider": "Oracle",
+      "year": 2012
+    },
+    {
+      "name": "OCE EJB - Oracle Certified Expert, Java EE 6 Enterprise JavaBeans Developer Certified Expert",
+      "provider": "Oracle",
+      "year": 2011
+    },
+    {
+      "name": "SCWCD - Sun Certified Web Component Developer",
+      "provider": "Sun Microsystem",
+      "year": 2010
+    },
+    {
+      "name": "SCJP - Sun Certified Java Programmer",
+      "provider": "Sun Microsystem",
+      "year": 2009
+    },
+    {
+      "name": "IBM Certified Solution Designer – IBM Rational Unified Process V7.0",
+      "provider": "IBM",
+      "year": 2012
+    },
+    {
+      "name": "IBM Certified Solution Designer – Object Oriented Analysis and Design, vUML 2",
+      "provider": "IBM",
+      "year": 2012
+    },
+    {
+      "name": "IBM Certified SOA Associate",
+      "provider": "IBM",
+      "year": 2008
+    }
+  ]
+}

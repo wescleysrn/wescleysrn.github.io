@@ -1,0 +1,18 @@
+{
+    "educations": [
+        {
+            "id": 1,
+            "institution": "Fundação Getulio Vargas",
+            "degree": "MBA - Strategic Management in Information Technology", 
+            "period": "jan 2014 - dez 2016",
+            "description": "The MBA in Strategic Management of Information Technology, Lato Sensu Postgraduate course, specialization level, aims to offer subsidies and tools to expand and improve the capacity of managers and technicians in the strategic management of information technology, so that promote the improvement of the quality of the projects, processes and products of systems development and deployment, as well as the development of the critical sense and the ability to mediate between the technology and the organization's business environment."
+        },
+        {
+            "id": 2,
+            "institution": "UCB - Universidade Católica de Brasília",
+            "degree": "Bachelor - Information Technology", 
+            "period": "jan 2007 - dez 2010",
+            "description": "Skills and abilities developed in the BSI course are based on the student's basic training, that is, the student will develop in the following areas: programming, computation and algorithms, computer architecture, mathematics, operating systems, computer networks, distributed systems, compilers, database, software engineering, man-machine interface, artificial intelligence and, mainly, information systems. The BSI course of UCB adds to the understanding of Information Systems, the value of learning through contact and social development. Both basic training and technological training are respected in this course. The difference lies in the focus of learning. This course addresses the topics of Information Systems in thematic research and research described mainly by the areas of Information Management in Large Data Volumes and High Availability, Artificial Intelligence and Software Quality."
+        }
+    ]
+}

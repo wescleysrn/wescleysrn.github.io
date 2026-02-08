@@ -1,0 +1,36 @@
+{
+    "recommendations": [
+        {
+            "id": 1,
+            "name": "Ânderson Morais Soares",
+            "image": "/assets/img/testimonials/face-1.jpg",
+            "role": "Software Engineer",
+            "description": "I can easily choose Wescley as one of the most dedicated systems analyst I've ever known. He runs through the solutions he is challenged to give, never giving up to reach the end with quality. Focused, he is up to work hard to deliver a solution, at the same time he's looking to improve other solutions, always dedicated to make the company grow up, valuing the IT area. As Software Architect, he also showed being highly organized, proactive and up to explain how to deal with any architectural problem that other system analysts were facing off. He has a beautiful family, and I would like to say it as an up, once he easily can deal with the tons of challenges the life proposes to him.",
+            "stars": 5
+        },
+        {
+            "id": 2,
+            "name": "Isabel Giannecchini",
+            "image": "/assets/img/testimonials/face-2.jpg",
+            "role": "Cloud Solution Engineer",
+            "description": "As well as being a coordinator, Wescley was a mentor during my time at the Ministry of Agriculture. He always gave us more and more challenging activities and tried to teach us how to solve problems. He has a remarkable knowledge of computers and was always available to answer questions. As well as being a born leader, the main skill Wescley showed me was motivation. Very technical in all his scores, he always taught us to research and think analytically.",
+            "stars": 4
+        },
+        {
+            "id": 3,
+            "name": "Ivan Mecenas Junior",
+            "image": "/assets/img/testimonials/face-3.jpg",
+            "role": "Software architect",
+            "description": "Wescley is an excellent professional. Determined, organized, proactive, committed to his work, that of his colleagues and partners, both within and outside the company. He is always available to provide the necessary support to anyone who needs it. Always up to date with new technologies.",
+            "stars": 5
+        },
+        {
+            "id": 4,
+            "name": "Fellipe Barata",
+            "image": "/assets/img/testimonials/face-4.jpg",
+            "role": "Infrastructure|Linux|Docker",
+            "description": "Wescley is a true leader. Knowledgeable about many technologies, focused on deadlines and results. Very patient with everyone, likes to teach and exchange knowledge. An excellent working partner.",
+            "stars": 5
+        }
+    ]
+}

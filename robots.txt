@@ -1,4 +1,0 @@
-Sitemap: https://wescleysrn.github.io/sitemap.xml
-
-User-agent: *
-Allow: /
